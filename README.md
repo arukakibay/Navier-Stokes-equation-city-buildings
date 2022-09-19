@@ -1,6 +1,7 @@
 # Navier-Stokes-equation-city-buildings
 To read whole report, please go to pdf file above.
-# Conclusion: Summing up, we solved the problem of mathematical and computer simulation of air 
+# Conclusion: 
+Summing up, we solved the problem of mathematical and computer simulation of air 
 flow around buildings. To build a mathematical model, two-dimensional Navier-Stokes 
 equations were used, where there are no such parameters as diffusion coefficients 
 because the height (of buildings) in this case is not as large as in the previous problems 
